@@ -1,5 +1,5 @@
 # S04
-A controlled vocabulary for the analytical method entity used in the semantic model of the BODC P01 Parameter Usage Vocabulary.
+A controlled vocabulary for the analytical method component of the BODC Parameter Usage Vocabulary (P01) Semantic Model.
 
 Terms and mappings available from: http://vocab.nerc.ac.uk/collection/S04/current/
 
